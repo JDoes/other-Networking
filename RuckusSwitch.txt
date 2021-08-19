@@ -1,0 +1,23 @@
+Ruckus Switch
+
+https://support.ruckuswireless.com/products/145-ruckus-icx-7650-campus-switches#sort=relevancy&f:@commonproducts=[ICX%207650]
+
+https://docs.commscope.com/bundle/fastiron-08080-commandref/resource/fastiron-08080-commandref.pdf
+
+https://docs.commscope.com/bundle/fastiron-08090-commandref/page/GUID-9EBE0DC5-280B-4840-B053-BF82424633B4.html
+
+
+
+##########################
+Show information about the switch
+
+
+# show version
+
+
+##########################
+Show switch logs
+Similar to /var/log/messages in Linux
+
+
+# show log
